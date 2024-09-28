@@ -1,0 +1,13 @@
+current directory: /home/carrie01/FlipFlap_HW/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240926-5490-a6vubn.rb extconf.rb
+creating Makefile
+
+current directory: /home/carrie01/FlipFlap_HW/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+make DESTDIR\= clean
+
+current directory: /home/carrie01/FlipFlap_HW/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+make DESTDIR\=
+make: Nothing to be done for 'all'.
+
+current directory: /home/carrie01/FlipFlap_HW/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+make DESTDIR\= install
